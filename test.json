@@ -1,0 +1,153 @@
+{
+    "datos": {
+        "datos_generales": {
+            "title": "SIA",
+            "lema": "PROFESIONALES EN REVISIÓN E IDENTIFICACIÓN DE TODA CLASE DE VEHICULOS",
+            "fecha_hora": "2021-12-13 12:30",
+            "comprador_nombre": "Jose Rios",
+            "comprador_doc": "CC 1234",
+            "vendedor_nombre": "Maria Mendez",
+            "vendedor_doc": "CC 112233"
+        },
+        "datos_vehiculo": {
+            "placa": "ABC123",
+            "marca": "Renault",
+            "linea": "Duster",
+            "modelo": "2020",
+            "clase": "Campero",
+            "tipo": "Wagon",
+            "color": "Beige Cendre",
+            "num_motor": "1234",
+            "num_chasis": "1234",
+            "num_serie": "1234",
+            "num_armado": "1234",
+            "num_seguridad": "1234",
+            "img_num_motor": "",
+            "img_chasis": "",
+            "img_cabina": "",
+            "img_num_serie": "",
+            "img_num_armado": "",
+            "img_num_seguridad": "",
+            "resultad_id": "Lorem ipsum blaa blaa blaa"
+        }
+    },
+    "legal": {
+        "pendienre_runt": "NO REGISTRA",
+        "pignoracion_runt": "NO REGISTRA",
+        "multas_simit": "NO REGISTRA",
+        "timbre": "UNIFICADI",
+        "impuesto": "NO REGISTRA",
+        "licencia_transito": "123456789",
+        "tarjeta": "1234789",
+        "siniestro": "NO REGISTRA",
+        "soat": "123456",
+        "soat_vencimiento": "27/03/2025",
+        "rtm": "466662",
+        "rtm_vencimiento": "27/02/2025",
+        "matriculado": "785665",
+        "matriculado_fecha": "27/02/2025",
+        "declaracion_importacion": "NO REGISTRA",
+        "policia_nacional": "NO REGISTRA",
+        "diagnostico_prueba_vacio": "PRUEBA VACIO ENTRE 19 Y 20 PULGADAS..."
+    },
+    "diagnostico": {
+        "diagnostico_pintura": {
+            "pdd": "0.08",
+            "pdi": "0.10",
+            "ptd": "0.10",
+            "pti": "0.11",
+            "baul": "0.09",
+            "techo": "0.11",
+            "capo": "0.08",
+            "gdd": "0.20",
+            "gdi": "0.20",
+            "gtd": "0.15",
+            "gti": "0.12"
+        },
+      
+        "diagnostico_partes_accesorios": {
+            "diagnostico_luces": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_motor": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_inferior": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_interior": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_exteriores": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_tablero_controles": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_fugas_fluidos": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_niveles_fluidos": {
+                "direccion_hidraulica": "",
+                "embrague_hidraulico": "",
+                "lavaparabrisas": "",
+                "n_refrigerante_motor": "",
+                "n_liquido_frenos": "",
+                "n_aceite_hidraulico": "",
+                "n_aceite_motor": ""
+            },
+            "diagnostico_vidrios_parales": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_equipo_electrico": [
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ],
+            "diagnostico_tapiceria":[
+                {
+                  "name":"",
+                  "qty":2,
+                  "state": 1
+                }
+      ]
+            }
+        },
+        "diagnostico_aa": "TRABAJA DENTRO DE LOS PARAMETROS 13.9°C CONSTANTE",
+        "diagnostico_scanner": "EL SISTEMA NO PRESENTA FALLAS",
+        "diagnostico_bateria": "VIDA UTIL BATERIA: 67%"
+    }
