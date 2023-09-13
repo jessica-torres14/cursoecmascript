@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packages": {}
+,
+"keywords":[
+  "javascriot",
+  "ecmascript"
+],
+"author": "Jessica Torres",
+"License": "MIT",
+"type": "module"
+
+}
