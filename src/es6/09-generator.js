@@ -1,15 +1,11 @@
-
-function* iterate(array){
-    for (let value of array){
-     yield value;
+export function* getId() {
+    const it =['michi1', 'michi2', 'michi3'];
+  
+    for (let i = 1; i > 0; i++) {
+      for (const letter in arr) {
+        yield i + it[michi];
+      }
     }
-}
-
-const it = iterate(['Oscar', 'David', 'Ana', 'Ulises', 'Jennifer']);
-console.log(it.next().value);
-console.log(it.next().value);
-console.log(it.next().value);
-console.log(it.next().value);
-console.log(it.next().value);
-console.log(it.next().value);
-console.log(it.next().value);
+  }
+  
+  console.log(it.next().value);
